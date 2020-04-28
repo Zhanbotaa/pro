@@ -1,0 +1,170 @@
+body{
+	font-family: 'Sintony', sans-serif;
+	color: #3F3C3C;	
+}
+
+ul,li{
+	display:block;
+	padding: 0;
+	margin: 0;
+	margin-left: 20px;
+}
+
+.menu{
+margin-top: 17px;
+margin-left: 550px;
+
+}
+
+.menu__item{
+	font-weight: 300;
+	font-size: 13px;
+
+}
+
+.menu__item a{
+	color:#999999;
+
+
+}
+
+.main-header{
+	padding:3px 0;
+	background-color:#990000;
+
+	}
+
+
+.title{
+	padding:170px 0;
+	
+}
+
+
+
+.cta{
+	background: #1a8cff;
+	color:white;
+	font-size: 14px;
+	border-radius: 4px;
+	padding:5px 0;
+	font-weight: 300;
+	display: block;
+	cursor: pointer;
+	width: 100px;
+	border: 0;
+	margin-top: -5px;
+	text-align: center;
+}
+
+
+.history__text{
+	font-size: 14px;
+	margin-bottom: 20px;
+}
+
+.history__button{
+	width: 100px;
+	
+}
+
+.cta:hover{
+	text-decoration: none;
+	color:white;
+}
+
+.new{
+	margin-top: 48px;
+	margin-bottom: 50px;
+	
+}
+p{
+	line-height: 1.8em
+}
+a:hover{
+	text-decoration: none;
+	color:white;
+}
+
+.interest{
+	background:grey;
+	border-top:20px;
+	border-bottom: 5px; 
+	padding:18px 0px;
+	margin-left: 44px;
+	margin-right: 70px;
+	border-radius: 4px;
+
+}
+
+.stories__text{
+	color:white;
+	font-family: 'Muli', sans-serif;
+	font-size: 13px;
+
+}
+
+
+.history__title{
+font-family: 'Muli', sans-serif;
+font-size: 40px;
+font-weight: 300;
+
+}
+
+.history{
+	padding-top: 25px;
+	margin-left: -25px;
+}
+
+.khabib_image{
+	margin-left: -25px;
+	
+}
+
+.khabib_image__item{
+	border-radius: 4px;
+}
+
+.card{
+	padding-top: 35px;
+	margin:27px 0;
+
+}
+
+.juventus{
+	margin-left: -30px;
+}
+
+.card__title{
+	font-size: 20px;
+	font-weight: 350px;
+	color:#1a1a1a;
+	margin-left:10px;
+}
+.card__text1{
+	margin-top:-25px;
+	margin-left: 10px;
+	padding-bottom: 5px;
+}
+.card__text{
+	margin-left: 10px;
+}
+.read__more{
+	margin-left: 10px;
+	background: #1a8cff;
+	color:white;
+	font-weight: 250;
+	display: block;
+	cursor: pointer;
+	width: 90px;
+	border: 0;
+	border-radius: 4px;
+	font-size: 13px;
+
+}
+
+.card__footer{
+	background-color: #f2f2f2;
+	padding:10px;
+}
